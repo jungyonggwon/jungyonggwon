@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jungyonggwon
 - 👀 I’m interested in financial snowball.
-- 🌱 I’m currently learning economics.
-- 💞️ I’m looking to collaborate on Python.
+- 🌱 I’m currently learning Python.
 - 📫 You can reach my through the Instagram @jung_yonggwon.
 
 <!---
